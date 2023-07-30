@@ -9,6 +9,7 @@ Swisstronik is a privacy-focused layer 1 solution built on Cosmos SDK, leveragin
 ## Who can join this Bug Bounty?
 
 **Developers:** This includes professionals specializing in various fields such as blockchain core development, Intel SGX development, smart contract and dApp development, using programming languages such as Go, Rust, Javascript, and Solidity.
+
 **Node Operators:** Individuals who meet the [Node setup requirements](https://swisstronik.gitbook.io/swisstronik-docs/swisstronik-testnet/setup-node) and are interested in setting up a node can actively participate in the Bug Bounty program.
 
 ## Swisstronik Features
