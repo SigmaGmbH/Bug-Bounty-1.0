@@ -29,6 +29,14 @@ Swisstronik is a privacy-focused layer 1 solution built on Cosmos SDK, leveragin
 
 **Unencrypted Logs for Smart Contract Testing:** Analyze smart contract events for valuable insights during testing. (Remember all the smart contract variable states are encrypted within the Swisstronik blockchain)
 
+## Assets in Scope
+
+****Intel SGX****: Bugs reported on the node side related to our implementation of Intel SGX, [swisstronik-librustgo repository](https://github.com/SigmaGmbH/swisstronik-librustgo).
+
+****Blockchain core bugs:**** Code issues compromising the safe functionality of the chain and our implementation of the EVM module, potentially leading to blockchain crashes, [swisstronik-chain](https://github.com/SigmaGmbH/swisstronik-chain) & [swisstronik-evm-module](https://github.com/SigmaGmbH/swisstronik-evm-module)
+
+****Blockchain Network & Informational Bugs:**** Issues that can arise when setting up nodes, interacting with the blockchain by deploying contracts or making transactions/calls, and problems related to the accuracy or clarity of the documentation. Bugs on the blockchain that can disrupt operations, causing technical glitches, transaction errors, and data inaccuracies.
+
 ## Rules
 
 **First come, first served:** The first developer to report a bug adhering to our guidelines will receive the reward, documented in the "Issues" section for transparency.
