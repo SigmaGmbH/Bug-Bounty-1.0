@@ -31,17 +31,18 @@ Swisstronik is a privacy-focused layer 1 solution built on Cosmos SDK, leveragin
 
 ## Assets in Scope
 
-****Intel SGX****: Bugs reported on the node side related to our implementation of Intel SGX, [swisstronik-librustgo repository](https://github.com/SigmaGmbH/swisstronik-librustgo).
+\***\*Intel SGX\*\***: Bugs reported on the node side related to our implementation of Intel SGX, [swisstronik-librustgo repository](https://github.com/SigmaGmbH/swisstronik-librustgo).
 
-****Blockchain core bugs:**** Code issues compromising the safe functionality of the chain and our implementation of the EVM module, potentially leading to blockchain crashes, [swisstronik-chain](https://github.com/SigmaGmbH/swisstronik-chain) & [swisstronik-evm-module](https://github.com/SigmaGmbH/swisstronik-evm-module)
+\***\*Blockchain core bugs:\*\*** Code issues compromising the safe functionality of the chain and our implementation of the EVM module, potentially leading to blockchain crashes, [swisstronik-chain](https://github.com/SigmaGmbH/swisstronik-chain) & [swisstronik-evm-module](https://github.com/SigmaGmbH/swisstronik-evm-module)
 
-****Blockchain Network & Informational Bugs:**** Issues that can arise when setting up nodes, interacting with the blockchain by deploying contracts or making transactions/calls, and problems related to the accuracy or clarity of the documentation. Bugs on the blockchain that can disrupt operations, causing technical glitches, transaction errors, and data inaccuracies.
+\***\*Blockchain Network & Informational Bugs:\*\*** Issues that can arise when setting up nodes, interacting with the blockchain by deploying contracts or making transactions/calls, and problems related to the accuracy or clarity of the documentation. Bugs on the blockchain that can disrupt operations, causing technical glitches, transaction errors, and data inaccuracies.
 
 ## Rules
 
 **First come, first served:** The first developer to report a bug adhering to our guidelines will receive the reward, documented in the "Issues" section for transparency.
 
 **Submission Criteria:** Bug reports must adhere to the guidelines outlined in the [Issue template](./ISSUE_TEMPLATE.md) to ensure effective resolution. (Note: This issue template has already been implemented in each repository.)
+**IMPORTANT: To qualify for the reward, kindly attach your submitted issue to our [Bug Bounty Dashboard](https://www.swisstronik.com/bug-bounty)**
 
 **Public Recognition:** (optional) Bug bounty winners will be recognized in the [Hall of Fame](./Hall%20Of%20Fame/) folder in the repository, showcasing their achievements.
 
