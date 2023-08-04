@@ -1,4 +1,4 @@
-# Bug/Vulnerability Description
+# Bug/Vulnerability Description 🐞🔐
 
 It is possible to execute ethereum transaction via authz module, bypassing maximum block gas limit, and effectively halt all nodes connected to the chain and chain itself.
 
@@ -8,7 +8,7 @@ For demonstration purposes contract call with infinite loop was executed on test
 
 <sub>Link to the original issue can be found [here](https://github.com/SigmaGmbH/swisstronik-evm-module/issues/11)</sub>
 
-# Rewards
+# Rewards 🏆🎉
 
 2.000 USDT
 1.000 USD worth of SWTR token
