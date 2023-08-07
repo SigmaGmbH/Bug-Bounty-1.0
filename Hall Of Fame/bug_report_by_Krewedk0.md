@@ -10,9 +10,9 @@ For demonstration purposes contract call with infinite loop was executed on test
 
 # Rewards 🏆🎉
 
-2.000 USDT
+2000 USDT
 
-1.000 USD worth of SWTR token
+1666 SWTR tokens
 
 # Link to the transaction
 
