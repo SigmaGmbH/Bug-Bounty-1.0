@@ -1,4 +1,4 @@
-# Informational bug description
+# Informational bug description 🐞🔐
 
 compiler versions 0.8.20 and 0.8.21 are not supported, getting RPC provider error
 
