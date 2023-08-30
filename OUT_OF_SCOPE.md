@@ -7,3 +7,4 @@ This file includes the out-of-scope assets/features of Bug Bounty 1.0, specifyin
 - 3rd party issues (e.g., Cosmos SDK, Tendermint, CometBFT).
 - The code that's added only for testing purposes (i.e. example smart contracts)
 - We appreciate the inclusion of logging and additional unit tests in pull requests (PRs), but it's essential to note that issues related to these aspects are not considered as valid "bugs" within the scope of this program.
+- Swisstronik Testnet 1.0 does not currently support Upgradeable contracts (Proxies), making this matter fall outside the scope.
