@@ -8,7 +8,7 @@ It should be ${perc20.address}; replaced with await ${perc20.target}; for hardha
 
 25 USDT
 
-15,62 SWTR tokens
+41,66 SWTR tokens
 
 # Link to the transaction
 
