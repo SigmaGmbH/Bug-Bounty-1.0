@@ -8,7 +8,7 @@ compiler versions 0.8.20 and 0.8.21 are not supported, getting RPC provider erro
 
 35 USDT
 
-21,8 SWTR tokens
+58,33 SWTR tokens
 
 # Link to the transaction
 
