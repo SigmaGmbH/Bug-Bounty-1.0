@@ -8,7 +8,7 @@ It should be await perc20.waitForDeployment(); replaced with await perc20.deploy
 
 50 USDT
 
-31,25 SWTR tokens
+83,33 SWTR tokens
 
 # Link to the transaction
 
