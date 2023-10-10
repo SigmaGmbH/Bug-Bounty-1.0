@@ -10,7 +10,7 @@ Due to GitHub Actions(GitHub Workflows), a repository token leak has occurred. T
 
 100 USDT
 
-62,5 SWTR tokens
+166,66 SWTR tokens
 
 # Link to the transaction
 
