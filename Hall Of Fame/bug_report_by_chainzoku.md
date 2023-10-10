@@ -1,6 +1,6 @@
 # Informational bug description 🐞🔐
 
-Typos .ts instead of .js in [README.md](https://github.com/SigmaGmbH/swisstronik-tutorials/tree/main/PERC20_interaction#readme)
+Typos .ts instead of .js in [README.md](https://github.com/SigmaGmbH/swisstronik-tutorials/tree/main/PERC20_interaction#readme) can create confusions.
 
 <sub>Link to the original issue can be found [here](https://github.com/SigmaGmbH/swisstronik-tutorials/issues/8)</sub>
 
@@ -8,7 +8,7 @@ Typos .ts instead of .js in [README.md](https://github.com/SigmaGmbH/swisstronik
 
 25 USDT
 
-15,62 SWTR tokens
+41,66 SWTR tokens
 
 # Link to the transaction
 
